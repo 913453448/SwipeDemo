@@ -1,0 +1,3 @@
+rootProject.name = 'SwipeDemo'
+
+include ':app', ':refresh-layout', ':refresh-header', ':refresh-footer'
